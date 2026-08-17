@@ -6,15 +6,17 @@ Go to releases for any updates!! ----->
 <br>
 <br>
 ## Mod List
-1. Fabric API
-2. Placeholder API
-3. Cloth Config
-4. BetterF3
-5. CleanF3
-7. Clumps
-8. Essential
-10. Flashback
-12. Mod Menu
-14. Simple Voice Chat
-15. Sodium
-16. Iris
+<ul>
+	<li>BetterF3</li>
+	<li>Cloth Config v26.2</li>
+	<li>Clumps</li>
+	<li>Concurrent Chunk Management Engine</li>
+	<li>Fabric API</li>
+	<li>Flashback</li>
+	<li>LambDynamicLights</li>
+	<li>Mod Menu</li>
+	<li>Placeholder API</li>
+	<li>Simple Voice Chat</li>
+	<li>Sodium</li>
+	<li>essential-container</li>
+</ul>
