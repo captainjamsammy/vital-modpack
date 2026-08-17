@@ -1,6 +1,6 @@
 # vital-modpack
 ### 26.2 with fabric
-This modpack is a collection of client side mods that are vital to playing minecraft. 
+This modpack is a collection of client side mods that are vital to playing minecraft. Why do I have this on Github? I want to polish this modpack before i send it off to the big leagues (Modrinth).
 <br>
 Go to releases for any updates!! ----->
 <br>
